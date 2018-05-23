@@ -1,0 +1,11 @@
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\bin\Debug\netcoreapp2.0\aplikacja.code.deps.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\bin\Debug\netcoreapp2.0\aplikacja.code.runtimeconfig.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\bin\Debug\netcoreapp2.0\aplikacja.code.runtimeconfig.dev.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\bin\Debug\netcoreapp2.0\aplikacja.code.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\bin\Debug\netcoreapp2.0\aplikacja.code.pdb
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.csprojAssemblyReference.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.AssemblyInfoInputs.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.AssemblyInfo.cs
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.code\obj\Debug\netcoreapp2.0\aplikacja.code.pdb

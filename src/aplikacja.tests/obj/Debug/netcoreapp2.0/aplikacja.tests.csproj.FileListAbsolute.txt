@@ -1,0 +1,14 @@
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\aplikacja.tests.deps.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\aplikacja.tests.runtimeconfig.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\aplikacja.tests.runtimeconfig.dev.json
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\aplikacja.tests.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\bin\Debug\netcoreapp2.0\aplikacja.tests.pdb
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.csprojAssemblyReference.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.AssemblyInfoInputs.cache
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.AssemblyInfo.cs
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.dll
+C:\Users\Mr.Fox\Downloads\Aplikacja\src\aplikacja.tests\obj\Debug\netcoreapp2.0\aplikacja.tests.pdb
