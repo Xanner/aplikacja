@@ -12,7 +12,7 @@ script:
  - dotnet build --configuration Release
  - dotnet test src/aplikacja.tests/aplikacja.tests.csproj
 
- deploy:
+deploy:
   provider: azure_web_apps
   username: defaultUserArek
   password: 17Sierpnia
