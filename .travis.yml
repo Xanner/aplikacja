@@ -13,9 +13,9 @@ script:
  - dotnet test src/aplikacja.tests/aplikacja.tests.csproj
 
  deploy:
- provider: azure_web_apps
- username: defaultUserArek
- password: 17Sierpnia
- site: aplikacjatravis2
- verbose: true
- skip_cleanup: true
+  provider: azure_web_apps
+  username: defaultUserArek
+  password: 17Sierpnia
+  site: aplikacjatravis2
+  verbose: true
+  skip_cleanup: true
