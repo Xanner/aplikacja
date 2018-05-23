@@ -1,0 +1,13 @@
+language: csharp
+mono: none
+dotnet: 2.1.300-rc1-008673
+dist: trusty
+sudo: required
+solution: Aplikacja.sln
+
+install:
+ - dotnet restore
+
+script:
+ - dotnet build --configuration Release
+ - dotnet test src/aplikacja.tests/aplikacja.tests.csproj
